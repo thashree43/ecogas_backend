@@ -3702,3 +3702,62 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"Found 0 new orders to process","timestamp":"2024-11-04T11:00:00.681Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Running new orders notification check","timestamp":"2024-11-04T11:15:00.448Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Found 0 new orders to process","timestamp":"2024-11-04T11:15:00.566Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-11-04T12:42:58.155Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Running new orders notification check","timestamp":"2024-11-04T12:45:00.173Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Found 0 new orders to process","timestamp":"2024-11-04T12:45:00.268Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Running new orders notification check","timestamp":"2024-11-04T13:00:00.285Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Found 0 new orders to process","timestamp":"2024-11-04T13:00:00.416Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/user/google-login\",\"status\":\"200\",\"responseTime\":\"1154.667\"}","timestamp":"2024-11-04T13:23:52.733Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/gas-providers/643205\",\"status\":\"200\",\"responseTime\":\"297.411\"}","timestamp":"2024-11-04T13:24:00.102Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/getbook/66fe772133a8881536ad0f6e\",\"status\":\"304\",\"responseTime\":\"120.780\"}","timestamp":"2024-11-04T13:24:01.355Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/user/ordergas\",\"status\":\"200\",\"responseTime\":\"3572.002\"}","timestamp":"2024-11-04T13:24:19.188Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/getorders/66fe772133a8881536ad0f6e\",\"status\":\"200\",\"responseTime\":\"218.754\"}","timestamp":"2024-11-04T13:24:30.059Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/getbook/66fe772133a8881536ad0f6e\",\"status\":\"304\",\"responseTime\":\"1237.607\"}","timestamp":"2024-11-04T13:24:31.081Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/user/userchat/66fe772133a8881536ad0f6e\",\"status\":\"200\",\"responseTime\":\"317.354\"}","timestamp":"2024-11-04T13:24:44.989Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/getmessage/6711bebc65e03c958f1d1038\",\"status\":\"304\",\"responseTime\":\"166.391\"}","timestamp":"2024-11-04T13:24:45.191Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/admin/adminlogin\",\"status\":\"200\",\"responseTime\":\"156.925\"}","timestamp":"2024-11-04T13:24:57.762Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/admindashboard\",\"status\":\"304\",\"responseTime\":\"589.486\"}","timestamp":"2024-11-04T13:24:58.375Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/getcustomer\",\"status\":\"200\",\"responseTime\":\"287.258\"}","timestamp":"2024-11-04T13:25:00.837Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/getmessages/6711bebc65e03c958f1d1038\",\"status\":\"200\",\"responseTime\":\"69.028\"}","timestamp":"2024-11-04T13:25:02.458Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/admin/sendmessage\",\"status\":\"200\",\"responseTime\":\"305.720\"}","timestamp":"2024-11-04T13:25:22.757Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/getmessages/6711bebc65e03c958f1d1038\",\"status\":\"200\",\"responseTime\":\"224.849\"}","timestamp":"2024-11-04T13:25:22.988Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/user/sendmessages\",\"status\":\"200\",\"responseTime\":\"220.296\"}","timestamp":"2024-11-04T13:25:30.950Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Running new orders notification check","timestamp":"2024-11-04T13:30:00.313Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Found 0 new orders to process","timestamp":"2024-11-04T13:30:00.348Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/user/sendmessages\",\"status\":\"200\",\"responseTime\":\"265.832\"}","timestamp":"2024-11-04T13:32:20.478Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/admin/sendmessage\",\"status\":\"401\",\"responseTime\":\"0.345\"}","timestamp":"2024-11-04T13:32:28.551Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/admin/refresh-token\",\"status\":\"200\",\"responseTime\":\"4.334\"}","timestamp":"2024-11-04T13:32:28.566Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/admin/sendmessage\",\"status\":\"200\",\"responseTime\":\"249.646\"}","timestamp":"2024-11-04T13:32:28.822Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/getmessages/6711bebc65e03c958f1d1038\",\"status\":\"200\",\"responseTime\":\"107.926\"}","timestamp":"2024-11-04T13:32:28.936Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/admindashboard\",\"status\":\"304\",\"responseTime\":\"222.249\"}","timestamp":"2024-11-04T13:33:51.902Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/getorders/66fe772133a8881536ad0f6e\",\"status\":\"304\",\"responseTime\":\"81.684\"}","timestamp":"2024-11-04T13:33:51.971Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/getbook/66fe772133a8881536ad0f6e\",\"status\":\"304\",\"responseTime\":\"348.783\"}","timestamp":"2024-11-04T13:33:52.241Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/getcustomer\",\"status\":\"200\",\"responseTime\":\"167.162\"}","timestamp":"2024-11-04T13:43:21.148Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/getmessages/6711bebc65e03c958f1d1038\",\"status\":\"304\",\"responseTime\":\"198.460\"}","timestamp":"2024-11-04T13:43:22.521Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/admin/sendmessage\",\"status\":\"401\",\"responseTime\":\"0.312\"}","timestamp":"2024-11-04T13:43:32.360Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/admin/refresh-token\",\"status\":\"200\",\"responseTime\":\"3.632\"}","timestamp":"2024-11-04T13:43:32.370Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/admin/sendmessage\",\"status\":\"200\",\"responseTime\":\"259.192\"}","timestamp":"2024-11-04T13:43:32.633Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/getmessages/6711bebc65e03c958f1d1038\",\"status\":\"200\",\"responseTime\":\"176.260\"}","timestamp":"2024-11-04T13:43:32.817Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/user/userchat/66fe772133a8881536ad0f6e\",\"status\":\"200\",\"responseTime\":\"313.715\"}","timestamp":"2024-11-04T13:43:38.175Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/getmessage/6711bebc65e03c958f1d1038\",\"status\":\"200\",\"responseTime\":\"119.905\"}","timestamp":"2024-11-04T13:43:38.336Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/user/sendmessages\",\"status\":\"200\",\"responseTime\":\"278.672\"}","timestamp":"2024-11-04T13:43:46.205Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/getcustomer\",\"status\":\"200\",\"responseTime\":\"74.993\"}","timestamp":"2024-11-04T13:43:51.829Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/user/logout\",\"status\":\"200\",\"responseTime\":\"0.919\"}","timestamp":"2024-11-04T13:44:06.745Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/getorders/\",\"status\":\"404\",\"responseTime\":\"1.340\"}","timestamp":"2024-11-04T13:44:06.802Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/getbook/undefined\",\"status\":\"400\",\"responseTime\":\"0.948\"}","timestamp":"2024-11-04T13:44:06.804Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/admindashboard\",\"status\":\"304\",\"responseTime\":\"424.874\"}","timestamp":"2024-11-04T13:44:19.757Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/get_user\",\"status\":\"200\",\"responseTime\":\"142.080\"}","timestamp":"2024-11-04T13:44:21.241Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/get_agent\",\"status\":\"200\",\"responseTime\":\"203.694\"}","timestamp":"2024-11-04T13:44:22.794Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/admingetorders\",\"status\":\"200\",\"responseTime\":\"181.676\"}","timestamp":"2024-11-04T13:44:23.901Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/getcustomer\",\"status\":\"304\",\"responseTime\":\"131.965\"}","timestamp":"2024-11-04T13:44:25.607Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/saleslists\",\"status\":\"200\",\"responseTime\":\"418.583\"}","timestamp":"2024-11-04T13:44:27.172Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/admin/updateapproval/66ed077c5e7393d168ac13f2\",\"status\":\"200\",\"responseTime\":\"143.492\"}","timestamp":"2024-11-04T13:44:47.932Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Running new orders notification check","timestamp":"2024-11-04T13:45:00.232Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Found 0 new orders to process","timestamp":"2024-11-04T13:45:00.262Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/admin/adminlogout\",\"status\":\"200\",\"responseTime\":\"0.612\"}","timestamp":"2024-11-04T13:45:04.255Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/agent/agentlogin\",\"status\":\"200\",\"responseTime\":\"151.933\"}","timestamp":"2024-11-04T13:45:19.882Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/agent/agentdashboard\",\"status\":\"304\",\"responseTime\":\"194.807\"}","timestamp":"2024-11-04T13:45:20.131Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/agent/getproduct\",\"status\":\"200\",\"responseTime\":\"181.044\"}","timestamp":"2024-11-04T13:45:21.747Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/agent/agentgetorders\",\"status\":\"200\",\"responseTime\":\"187.996\"}","timestamp":"2024-11-04T13:45:23.477Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/agent/getsales/66e92c9e2a4ecf4992cb9fa0\",\"status\":\"200\",\"responseTime\":\"305.424\"}","timestamp":"2024-11-04T13:45:25.348Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/agent/agentlogout\",\"status\":\"200\",\"responseTime\":\"0.502\"}","timestamp":"2024-11-04T13:45:34.349Z"}

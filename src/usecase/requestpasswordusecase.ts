@@ -1,4 +1,4 @@
-import { Otpservice } from "../infrastructure/service/Otpservice";
+import { Otpservice } from "../infrastructure/service/otpservice";
 import { IRedisRepository, IUserRepository } from "../domain";
 import { generatetoken } from "../interface/middleware/authtoken";
 require('dotenv').config(); 

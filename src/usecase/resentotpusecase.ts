@@ -1,5 +1,5 @@
 import { IRedisRepository } from "../domain";
-import { Otpservice } from "../infrastructure/service/Otpservice";
+import { Otpservice } from "../infrastructure/service/otpservice";
 
 export class ResentotpUseCase{
     constructor(

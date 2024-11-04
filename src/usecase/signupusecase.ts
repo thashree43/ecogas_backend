@@ -1,7 +1,7 @@
 import { IUserRepository, IRedisRepository } from "../domain";
 import { User } from "../domain";
 import { hashPassword } from "../infrastructure/utilis"; 
-import { Otpservice } from "../infrastructure/service/Otpservice";
+import { Otpservice } from "../infrastructure/service/otpservice";
 
 type SignupResponse = User | { message: string }; 
 

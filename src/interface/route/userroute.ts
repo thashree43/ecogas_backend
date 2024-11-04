@@ -23,7 +23,7 @@ import {
   RedisOtpRepository,
   AgentRepository,
 } from "../../infrastructure/repository";
-import {Otpservice} from "../../infrastructure/service/Otpservice"
+import {Otpservice} from "../../infrastructure/service/otpservice"
 import { userauth } from "../middleware/userauth";
 import multer from "multer";
 import multerS3 from "multer-s3"; // Import multerS3

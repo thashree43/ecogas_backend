@@ -1,1 +1,1 @@
-export * from "./Otpservice"
+export * from "./otpservice"

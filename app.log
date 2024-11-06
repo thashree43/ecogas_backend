@@ -3761,3 +3761,11 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/agent/agentgetorders\",\"status\":\"200\",\"responseTime\":\"187.996\"}","timestamp":"2024-11-04T13:45:23.477Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/agent/getsales/66e92c9e2a4ecf4992cb9fa0\",\"status\":\"200\",\"responseTime\":\"305.424\"}","timestamp":"2024-11-04T13:45:25.348Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/agent/agentlogout\",\"status\":\"200\",\"responseTime\":\"0.502\"}","timestamp":"2024-11-04T13:45:34.349Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-11-06T11:10:34.164Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-11-06T11:11:16.104Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/agent/apply\",\"status\":\"500\",\"responseTime\":\"4340.695\"}","timestamp":"2024-11-06T11:12:57.756Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-11-06T11:13:46.724Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Running new orders notification check","timestamp":"2024-11-06T11:15:00.296Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Found 0 new orders to process","timestamp":"2024-11-06T11:15:01.544Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-11-06T11:20:14.534Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/agent/apply\",\"status\":\"201\",\"responseTime\":\"10347.578\"}","timestamp":"2024-11-06T11:21:11.758Z"}

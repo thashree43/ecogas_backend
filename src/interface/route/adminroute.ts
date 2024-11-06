@@ -17,7 +17,7 @@ import {
 } from "../../usecase";
 import { adminauth } from "../middleware/adminauth";
 import multer from "multer";
-import multerS3 from "multer-s3"; // Import multerS3
+import multerS3 from "multer-s3"; 
 import { S3Client } from "@aws-sdk/client-s3";
 
 const s3Client = new S3Client({
@@ -31,7 +31,7 @@ const s3Client = new S3Client({
 const upload = multer({
   storage: multerS3({
     s3: s3Client,
-    bucket: "thashree",
+    bucket: "thashreef",
     contentType: multerS3.AUTO_CONTENT_TYPE,
     key: function (req, file, cb) {
       cb(null, Date.now().toString() + "-" + file.originalname);

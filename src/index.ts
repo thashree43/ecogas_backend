@@ -8,7 +8,7 @@ import { userroute } from "./interface/route/userroute";
 import { agentroute } from "./interface/route/agentroute";
 import { adminroute } from "./interface/route/adminroute";
 import { connectDb } from "./infrastructure/database/mongoconnect";
-import logger from "../src/infrastructure/utilis/logger";
+import logger from "./infrastructure/utilis/logger";
 import morgan from "morgan";
 import winston from "winston";
 import { ChatModel } from "./infrastructure/database";

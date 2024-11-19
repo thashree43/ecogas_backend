@@ -4061,3 +4061,4 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/admin/adminlogin\",\"status\":\"200\",\"responseTime\":\"191.331\"}","timestamp":"2024-11-17T00:22:56.222Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/admindashboard\",\"status\":\"304\",\"responseTime\":\"595.482\"}","timestamp":"2024-11-17T00:22:56.842Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/agent/agentlogout\",\"status\":\"200\",\"responseTime\":\"0.316\"}","timestamp":"2024-11-17T00:23:02.443Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-11-19T10:12:25.999Z"}

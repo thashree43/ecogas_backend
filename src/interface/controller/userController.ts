@@ -112,7 +112,8 @@ export class userController {
       const response = await this.verifyOtpusecase.execute(otp, email);
       if (response.success) {
         res.cookie("userToken", response.token, {
-          maxAge: 3600000, // 1 hour
+          maxAge: 3600000,
+           // 1 hour
           httpOnly: true,
           secure: true,
           sameSite: "none",
@@ -158,10 +159,10 @@ export class userController {
 
         // Set cookies for access and refresh tokens
         res.cookie("userToken", token, {
-          maxAge: 3600000, // 1 hour
-          httpOnly: true,
-          secure:true,
-          sameSite: "none"
+            maxAge: 3600000, // 1 hour
+            httpOnly: true, 
+            secure:true,
+            sameSite: "none"
         });
 
         res.cookie("userrefreshToken", refreshtoken, {

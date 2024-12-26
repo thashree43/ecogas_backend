@@ -22,11 +22,10 @@ connectDb();
 const app = express();
 
 const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
-const clientUrl = process.env.CLIENT_URL!.replace(/\/$/, "");
 
 app.use(
   cors({
-    origin: [clientUrl,"http://localhost:5173"],
+    origin:process.env.CLIENT_URL,
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH"],
     credentials: true,  
     allowedHeaders: [

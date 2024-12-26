@@ -4062,3 +4062,36 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/admin/admindashboard\",\"status\":\"304\",\"responseTime\":\"595.482\"}","timestamp":"2024-11-17T00:22:56.842Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/agent/agentlogout\",\"status\":\"200\",\"responseTime\":\"0.316\"}","timestamp":"2024-11-17T00:23:02.443Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-11-19T10:12:25.999Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-12-26T03:19:06.512Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-12-26T03:21:27.168Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-12-26T03:21:52.041Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-12-26T03:22:19.510Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/admin/login\",\"status\":\"404\",\"responseTime\":\"3.219\"}","timestamp":"2024-12-26T03:26:35.240Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/\",\"status\":\"404\",\"responseTime\":\"0.499\"}","timestamp":"2024-12-26T03:26:40.273Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Running new orders notification check","timestamp":"2024-12-26T03:30:00.782Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Found 0 new orders to process","timestamp":"2024-12-26T03:30:00.865Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-12-26T03:34:36.361Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-12-26T03:38:12.663Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-12-26T03:40:47.412Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"//api/user/login\",\"status\":\"404\",\"responseTime\":\"21.255\"}","timestamp":"2024-12-26T03:40:47.498Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"//api/user/login\",\"status\":\"404\",\"responseTime\":\"1.067\"}","timestamp":"2024-12-26T03:42:02.176Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"//api/user/login\",\"status\":\"404\",\"responseTime\":\"0.411\"}","timestamp":"2024-12-26T03:42:03.495Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/user/login\",\"status\":\"200\",\"responseTime\":\"152.082\"}","timestamp":"2024-12-26T03:42:56.812Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/gas-providers/643205\",\"status\":\"200\",\"responseTime\":\"252.640\"}","timestamp":"2024-12-26T03:43:06.185Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/getbook/66f275f9edd163d2683325d3\",\"status\":\"200\",\"responseTime\":\"191.751\"}","timestamp":"2024-12-26T03:43:07.509Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/user/ordergas\",\"status\":\"200\",\"responseTime\":\"3892.392\"}","timestamp":"2024-12-26T03:43:26.631Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Running new orders notification check","timestamp":"2024-12-26T03:45:00.704Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Found 0 new orders to process","timestamp":"2024-12-26T03:45:00.804Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-12-26T04:11:48.442Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-12-26T04:13:32.393Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Running new orders notification check","timestamp":"2024-12-26T04:15:00.284Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Found 0 new orders to process","timestamp":"2024-12-26T04:15:00.362Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-12-26T04:27:47.561Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-12-26T04:27:59.571Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-12-26T04:28:10.210Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-12-26T04:28:27.954Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Running new orders notification check","timestamp":"2024-12-26T04:30:00.890Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Running delivery reminders check","timestamp":"2024-12-26T04:30:00.897Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Found 0 new orders to process","timestamp":"2024-12-26T04:30:01.034Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Found 0 deliveries for tomorrow","timestamp":"2024-12-26T04:30:01.035Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2024-12-26T04:30:20.370Z"}

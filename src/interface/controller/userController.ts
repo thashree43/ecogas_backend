@@ -117,6 +117,8 @@ export class userController {
           httpOnly: true,
           secure: true,
           sameSite: "none",
+          domain: "https://ecogas-frontent.vercel.app",
+
         });
       }
       res.status(200).json(response);
@@ -161,7 +163,9 @@ export class userController {
             maxAge: 3600000, // 1 hour
             httpOnly: true, 
             secure:true,
-            sameSite: "none"
+            sameSite: "none",
+            domain: "https://ecogas-frontent.vercel.app",
+
         });
 
         res.cookie("userrefreshToken", refreshtoken, {

@@ -4367,3 +4367,49 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2026-07-17T09:29:48.803Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Running new orders notification check","timestamp":"2026-07-17T09:30:00.877Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Found 0 new orders to process","timestamp":"2026-07-17T09:30:00.964Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2026-07-17T15:16:07.858Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2026-07-17T15:16:40.434Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/gas-providers/643205\",\"status\":\"401\",\"responseTime\":\"5.253\"}","timestamp":"2026-07-17T15:17:16.221Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/user/userrefresh-token\",\"status\":\"200\",\"responseTime\":\"16.907\"}","timestamp":"2026-07-17T15:17:16.249Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/gas-providers/643205\",\"status\":\"200\",\"responseTime\":\"258.895\"}","timestamp":"2026-07-17T15:17:16.515Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/getbook/66fe772133a8881536ad0f6e\",\"status\":\"200\",\"responseTime\":\"161.055\"}","timestamp":"2026-07-17T15:17:24.127Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/agent/agentdashboard\",\"status\":\"401\",\"responseTime\":\"1.069\"}","timestamp":"2026-07-17T15:17:47.132Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/agent/agentrefresh-token\",\"status\":\"200\",\"responseTime\":\"2.886\"}","timestamp":"2026-07-17T15:17:47.150Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/agent/agentdashboard\",\"status\":\"200\",\"responseTime\":\"208.327\"}","timestamp":"2026-07-17T15:17:47.366Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/agent/getproduct\",\"status\":\"500\",\"responseTime\":\"140.869\"}","timestamp":"2026-07-17T15:17:51.918Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/agent/addproduct\",\"status\":\"201\",\"responseTime\":\"342.209\"}","timestamp":"2026-07-17T15:18:42.995Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/agent/getproduct\",\"status\":\"200\",\"responseTime\":\"196.409\"}","timestamp":"2026-07-17T15:18:43.229Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/gas-providers/643205\",\"status\":\"200\",\"responseTime\":\"244.428\"}","timestamp":"2026-07-17T15:21:43.123Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/gas-providers/643205\",\"status\":\"200\",\"responseTime\":\"186.889\"}","timestamp":"2026-07-17T15:26:13.329Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/user/getbook/66fe772133a8881536ad0f6e\",\"status\":\"304\",\"responseTime\":\"166.304\"}","timestamp":"2026-07-17T15:26:17.205Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/user/ordergas\",\"status\":\"200\",\"responseTime\":\"6904.943\"}","timestamp":"2026-07-17T15:26:39.276Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Running new orders notification check","timestamp":"2026-07-17T15:30:00.954Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Found 28 new orders to process","timestamp":"2026-07-17T15:30:01.075Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a43ac4cdbbbbdc1d542c1","timestamp":"2026-07-17T15:30:06.350Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a43c24cdbbbbdc1d542c8","timestamp":"2026-07-17T15:30:11.261Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a444d4cdbbbbdc1d542cf","timestamp":"2026-07-17T15:30:15.761Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a44534cdbbbbdc1d542d6","timestamp":"2026-07-17T15:30:21.104Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a44754cdbbbbdc1d542df","timestamp":"2026-07-17T15:30:26.125Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a447e4cdbbbbdc1d542e6","timestamp":"2026-07-17T15:30:31.539Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a447e4cdbbbbdc1d542eb","timestamp":"2026-07-17T15:30:37.543Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a447f4cdbbbbdc1d542f0","timestamp":"2026-07-17T15:30:42.316Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a44804cdbbbbdc1d542fb","timestamp":"2026-07-17T15:30:47.090Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a47f14cdbbbbdc1d54318","timestamp":"2026-07-17T15:30:52.126Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a47ff4cdbbbbdc1d5431f","timestamp":"2026-07-17T15:30:57.139Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a48014cdbbbbdc1d54326","timestamp":"2026-07-17T15:31:03.116Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a48514cdbbbbdc1d5432d","timestamp":"2026-07-17T15:31:09.438Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a485b4cdbbbbdc1d54335","timestamp":"2026-07-17T15:31:14.904Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a485b4cdbbbbdc1d54337","timestamp":"2026-07-17T15:31:20.076Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a485d4cdbbbbdc1d54343","timestamp":"2026-07-17T15:31:25.015Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a485d4cdbbbbdc1d54346","timestamp":"2026-07-17T15:31:30.417Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a485e4cdbbbbdc1d54351","timestamp":"2026-07-17T15:31:36.143Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a485f4cdbbbbdc1d54358","timestamp":"2026-07-17T15:31:41.955Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a485f4cdbbbbdc1d5435b","timestamp":"2026-07-17T15:31:47.121Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a485f4cdbbbbdc1d54360","timestamp":"2026-07-17T15:31:52.934Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a485f4cdbbbbdc1d54367","timestamp":"2026-07-17T15:31:57.968Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a48604cdbbbbdc1d54371","timestamp":"2026-07-17T15:32:04.094Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a48604cdbbbbdc1d54374","timestamp":"2026-07-17T15:32:09.144Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a48604cdbbbbdc1d5437d","timestamp":"2026-07-17T15:32:14.163Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a48614cdbbbbdc1d54384","timestamp":"2026-07-17T15:32:18.554Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a48614cdbbbbdc1d54386","timestamp":"2026-07-17T15:32:23.259Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Sent confirmation email for order 6a5a49ee4cdbbbbdc1d543a3","timestamp":"2026-07-17T15:32:28.274Z"}

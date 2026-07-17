@@ -1,7 +1,7 @@
 import { Schema, model, Document, Types } from "mongoose";
 
 export interface IagentData extends Document {
-  _id: Schema.Types.ObjectId;
+  _id: Types.ObjectId;
   agentname: string;
   email: string;
   mobile: number;

@@ -117,7 +117,6 @@ export class userController {
           httpOnly: true,
           secure: true,
           sameSite: "none",
-          domain: "https://ecogas-frontent.vercel.app/",
         });
       }
       res.status(200).json(response);
@@ -273,7 +272,7 @@ export class userController {
           httpOnly: true,
           secure:true,
           sameSite: 'none' as const,
-          domain: process.env.CLIENT_URL,
+          
         });
 
         res.cookie("userrefreshToken", refreshtoken, {

@@ -26,16 +26,31 @@ export class Otpservice {
     // }
 
     async sendMail(
-        email: string,
-        subject: string,
-        message: string
-    ): Promise<void> {
-        const mailOptions = {
-            from: process.env.EMAIL_USER,
-            to: email,
-            subject: subject,
-            text: message
-        };
-        await this.transporter.sendMail(mailOptions);
+    email: string,
+    subject: string,
+    message: string
+): Promise<void> {
+    console.log("Sending email to:", email);
+
+    const mailOptions = {
+        from: process.env.EMAIL_USER,
+        to: email,
+        subject: subject,
+        text: message
+    };
+
+    try {
+        const info = await this.transporter.sendMail(mailOptions);
+
+        console.log("========== EMAIL STATUS ==========");
+        console.log("Message ID:", info.messageId);
+        console.log("Accepted:", info.accepted);
+        console.log("Rejected:", info.rejected);
+        console.log("Response:", info.response);
+        console.log("=================================");
+
+    } catch (error) {
+        console.error("Email sending failed:", error);
     }
+}
 }

@@ -4360,3 +4360,10 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2026-07-17T08:59:50.202Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Running new orders notification check","timestamp":"2026-07-17T09:00:00.281Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Found 0 new orders to process","timestamp":"2026-07-17T09:00:00.369Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2026-07-17T09:09:28.492Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2026-07-17T09:18:12.529Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2026-07-17T09:21:45.209Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2026-07-17T09:22:52.656Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Initializing notification cron jobs","timestamp":"2026-07-17T09:29:48.803Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Running new orders notification check","timestamp":"2026-07-17T09:30:00.877Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Found 0 new orders to process","timestamp":"2026-07-17T09:30:00.964Z"}

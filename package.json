@@ -2,12 +2,11 @@
   "name": "userside",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon --exec ts-node src/index.ts",
-    "production": "node dist/index.js",
-    "build": "tsc"
-  },
+ "scripts": {
+  "dev": "nodemon --exec ts-node src/index.ts",
+  "build": "tsc",
+  "start": "node dist/index.js"
+},
   "author": "",
   "license": "ISC",
   "description": "",
